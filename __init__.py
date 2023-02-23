@@ -1,1 +1,7 @@
-Режим вывода команд на экран (ECHO) отключен.
+from .loader import loads
+from .dumper import dumps
+
+__all__ = (
+	loads,
+	dumps
+)
