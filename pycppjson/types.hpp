@@ -9,7 +9,6 @@ namespace JSONObjects {
 	string false_false = "false";
 }
 
-# pragma once
 namespace PythonObjects {
 	string null = "None";
 	string apostrof = "\"";
