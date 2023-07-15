@@ -5,5 +5,4 @@
 </p>
 
 ## What kind of project is this?
-This is something similar to a [*ujson*](https://github.com/ultrajson/ultrajson) library, i.e. it is also a JSON loader that turns it into a dict
-As I wrote in one of the commits (0.6 beta seems to be) - this is not a serious library, but just a small work in my portfolio. But you can safely use it. The library also requires [*cppyy*](https://github.com/wlav/cppyy)([PyPl](https://pypi.org/project/cppyy/)) to work
+The new pycppjson repository that no longer requires the terrible [*cppyy*](https://github.com/wlav/cppyy), I certainly can't compare with [*ujson*](https://github.com/ultrajson/ultrajson), but still
